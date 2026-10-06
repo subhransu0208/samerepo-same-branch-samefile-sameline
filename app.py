@@ -2,7 +2,7 @@
 print("Hello, World!")
 
 # Dynamic greetings using string variables
-first_name = "Bob"
+first_name = "Rakesh"
 last_name = "Smith"
 full_name = first_name + " " + last_name
 print(f"Welcome to Python, {full_name}!")
